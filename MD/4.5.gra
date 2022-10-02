@@ -1,0 +1,35 @@
+nombreGrafo    4.5
+NoDirigido
+NoPonderado
+numVertices    8
+numParaNumerarLosVertices    9
+Vertice1  N 1  X 170  Y 90
+Vertice2  N 2  X 327  Y 80
+Vertice3  N 3  X 470  Y 86
+Vertice4  N 4  X 569  Y 91
+Vertice5  N 5  X 202  Y 222
+Vertice6  N 6  X 289  Y 222
+Vertice7  N 7  X 433  Y 227
+Vertice8  N 8  X 565  Y 239
+verticesConNombre    false
+verticesAleatorios    false
+vertsConCoordenadas    true
+numAristas    9
+Vertice1  N 1  X 170  Y 90    Vertice5  N 5  X 202  Y 222    peso  MENOSUNO
+Vertice1  N 1  X 170  Y 90    Vertice2  N 2  X 327  Y 80    peso  MENOSUNO
+Vertice2  N 2  X 327  Y 80    Vertice6  N 6  X 289  Y 222    peso  MENOSUNO
+Vertice6  N 6  X 289  Y 222    Vertice7  N 7  X 433  Y 227    peso  MENOSUNO
+Vertice7  N 7  X 433  Y 227    Vertice3  N 3  X 470  Y 86    peso  MENOSUNO
+Vertice3  N 3  X 470  Y 86    Vertice2  N 2  X 327  Y 80    peso  MENOSUNO
+Vertice2  N 2  X 327  Y 80    Vertice7  N 7  X 433  Y 227    peso  MENOSUNO
+Vertice3  N 3  X 470  Y 86    Vertice4  N 4  X 569  Y 91    peso  MENOSUNO
+Vertice4  N 4  X 569  Y 91    Vertice8  N 8  X 565  Y 239    peso  MENOSUNO
+MatrizDeAdyacencia
+0  1  0  0  1  0  0  0  
+1  0  1  0  0  1  1  0  
+0  1  0  1  0  0  1  0  
+0  0  1  0  0  0  0  1  
+1  0  0  0  0  0  0  0  
+0  1  0  0  0  0  1  0  
+0  1  1  0  0  1  0  0  
+0  0  0  1  0  0  0  0  

@@ -1,0 +1,49 @@
+nombreGrafo    4.7
+NoDirigido
+NoPonderado
+numVertices    11
+numParaNumerarLosVertices    12
+Vertice1  N 1  X 256  Y 41
+Vertice2  N 2  X 138  Y 145
+Vertice3  N 3  X 248  Y 145
+Vertice4  N 4  X 374  Y 161
+Vertice5  N 5  X 132  Y 263
+Vertice6  N 6  X 231  Y 253
+Vertice7  N 7  X 385  Y 260
+Vertice8  N 8  X 71  Y 326
+Vertice9  N 9  X 176  Y 326
+Vertice10  N 10  X 287  Y 333
+Vertice11  N 11  X 422  Y 346
+verticesConNombre    false
+verticesAleatorios    false
+vertsConCoordenadas    true
+numAristas    17
+Vertice2  N 2  X 138  Y 145    Vertice1  N 1  X 256  Y 41    peso  MENOSUNO
+Vertice1  N 1  X 256  Y 41    Vertice4  N 4  X 374  Y 161    peso  MENOSUNO
+Vertice4  N 4  X 374  Y 161    Vertice3  N 3  X 248  Y 145    peso  MENOSUNO
+Vertice3  N 3  X 248  Y 145    Vertice2  N 2  X 138  Y 145    peso  MENOSUNO
+Vertice2  N 2  X 138  Y 145    Vertice5  N 5  X 132  Y 263    peso  MENOSUNO
+Vertice5  N 5  X 132  Y 263    Vertice8  N 8  X 71  Y 326    peso  MENOSUNO
+Vertice9  N 9  X 176  Y 326    Vertice8  N 8  X 71  Y 326    peso  MENOSUNO
+Vertice9  N 9  X 176  Y 326    Vertice10  N 10  X 287  Y 333    peso  MENOSUNO
+Vertice10  N 10  X 287  Y 333    Vertice11  N 11  X 422  Y 346    peso  MENOSUNO
+Vertice11  N 11  X 422  Y 346    Vertice7  N 7  X 385  Y 260    peso  MENOSUNO
+Vertice7  N 7  X 385  Y 260    Vertice4  N 4  X 374  Y 161    peso  MENOSUNO
+Vertice4  N 4  X 374  Y 161    Vertice6  N 6  X 231  Y 253    peso  MENOSUNO
+Vertice6  N 6  X 231  Y 253    Vertice2  N 2  X 138  Y 145    peso  MENOSUNO
+Vertice5  N 5  X 132  Y 263    Vertice6  N 6  X 231  Y 253    peso  MENOSUNO
+Vertice6  N 6  X 231  Y 253    Vertice7  N 7  X 385  Y 260    peso  MENOSUNO
+Vertice6  N 6  X 231  Y 253    Vertice10  N 10  X 287  Y 333    peso  MENOSUNO
+Vertice9  N 9  X 176  Y 326    Vertice6  N 6  X 231  Y 253    peso  MENOSUNO
+MatrizDeAdyacencia
+0  1  0  1  0  0  0  0  0  0  0  
+1  0  1  0  1  1  0  0  0  0  0  
+0  1  0  1  0  0  0  0  0  0  0  
+1  0  1  0  0  1  1  0  0  0  0  
+0  1  0  0  0  1  0  1  0  0  0  
+0  1  0  1  1  0  1  0  1  1  0  
+0  0  0  1  0  1  0  0  0  0  1  
+0  0  0  0  1  0  0  0  1  0  0  
+0  0  0  0  0  1  0  1  0  1  0  
+0  0  0  0  0  1  0  0  1  0  1  
+0  0  0  0  0  0  1  0  0  1  0  

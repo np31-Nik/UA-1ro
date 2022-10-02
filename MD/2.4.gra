@@ -1,0 +1,28 @@
+nombreGrafo    2.4
+NoDirigido
+NoPonderado
+numVertices    5
+numParaNumerarLosVertices    7
+Vertice1  N 1  X 158  Y 80
+Vertice2  N 2  X 407  Y 104
+Vertice3  N 3  X 195  Y 186
+Vertice4  N 4  X 421  Y 218
+Vertice6  N 6  X 312  Y 164
+verticesConNombre    false
+verticesAleatorios    false
+vertsConCoordenadas    false
+numAristas    8
+Vertice3  N 3  X 195  Y 186    Vertice1  N 1  X 158  Y 80    peso  MENOSUNO
+Vertice1  N 1  X 158  Y 80    Vertice2  N 2  X 407  Y 104    peso  MENOSUNO
+Vertice2  N 2  X 407  Y 104    Vertice4  N 4  X 421  Y 218    peso  MENOSUNO
+Vertice4  N 4  X 421  Y 218    Vertice3  N 3  X 195  Y 186    peso  MENOSUNO
+Vertice3  N 3  X 195  Y 186    Vertice6  N 6  X 312  Y 164    peso  MENOSUNO
+Vertice6  N 6  X 312  Y 164    Vertice2  N 2  X 407  Y 104    peso  MENOSUNO
+Vertice6  N 6  X 312  Y 164    Vertice4  N 4  X 421  Y 218    peso  MENOSUNO
+Vertice6  N 6  X 312  Y 164    Vertice1  N 1  X 158  Y 80    peso  MENOSUNO
+MatrizDeAdyacencia
+0  0  0  0  0  
+0  0  0  0  0  
+0  0  0  0  0  
+0  0  0  0  0  
+0  0  0  0  0  

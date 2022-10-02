@@ -1,0 +1,45 @@
+clear
+x=10/7
+
+x =
+
+    1.4286
+
+y=sym(`10/7`)
+ y=sym(`10/7`)
+       
+{Error: Invalid text character. Check for unsupported
+symbol, invisible character, or pasting of non-ASCII
+characters.
+} 
+y=sym('10/7')
+ 
+y =
+ 
+10/7
+ 
+double(y)
+
+ans =
+
+    1.4286
+
+y+5
+ 
+ans =
+ 
+45/7
+ 
+double(y)+5
+
+ans =
+
+    6.4286
+
+45/7
+
+ans =
+
+    6.4286
+
+diary off

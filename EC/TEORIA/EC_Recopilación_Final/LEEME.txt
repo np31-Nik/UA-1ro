@@ -1,0 +1,23 @@
+> Indice
+Hay examenes, resumenes, libros y ejercicios resueltos.
+
+> Por otra parte hay enlaces a videos para entender los conceptos de la asignatura.
+
+> Links
+Playlist Entera con varios videos
+https://www.youtube.com/playlist?list=PLJBh-MSC6-mKA5zBfSYOExTZHnkarYAyr
+
+
+> Recomendaciones Profesor
+1.- Del tema de la ALU, verás que hay una serie de algoritmos para realizar las operaciones 
+artiméticas que debes estudiarte y saber aplicarlos a un ejercicio (multiplicación, división, etc). 
+En las transparencias vienen varios ejemplos hechos.
+
+2.- Entender los sumadores, cómo están construidos y ser capaz de calcular los tiempos de "delay" en número de puertas lógicas. 
+En clase también se han hecho ejercicios de esto (y en las transparencias también aparecen ejemplos).
+
+3.- Al final del tema de la ALU se habla del estándar IEEE-754: debes aprender los pasos para realizar cada operación y que el 
+resultado se normalice y redondee , de eso también puedes hacer ejercicios. 
+
+4.- Del tema de memoria, hay unas partes que son básicamente teóricas, lo importante es saber cómo realizar ejercicios de creación 
+de un mapa de memoria y el circuito de conexión correspondiente.

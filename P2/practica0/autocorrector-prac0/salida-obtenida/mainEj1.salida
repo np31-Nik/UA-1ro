@@ -1,0 +1,4 @@
+deleteChar("cadena de pruebaas",a), test="cden de pruebs"
+deleteChar("cadena de pruebaas",e), test="cadna d prubaas"
+deleteChar("hola, mundo",a), test="hol, mundo"
+deleteChar("hola, mundo",o), test="hla, mund"

@@ -1,0 +1,37 @@
+nombreGrafo    7.7
+Dirigido
+Ponderado
+numVertices    6
+numParaNumerarLosVertices    7
+Granada  N 1  X 475  Y 173
+Albacete  N 2  X 392  Y 31
+Alicante  N 3  X 228  Y 31
+Madrid  N 4  X 145  Y 173
+Valencia  N 5  X 228  Y 315
+Barcelona  N 6  X 392  Y 315
+verticesConNombre    true
+verticesAleatorios    false
+vertsConCoordenadas    true
+numArcos    15
+Albacete  N 2  X 392  Y 31    Granada  N 1  X 475  Y 173    peso  363
+Alicante  N 3  X 228  Y 31    Granada  N 1  X 475  Y 173    peso  353
+Alicante  N 3  X 228  Y 31    Albacete  N 2  X 392  Y 31    peso  171
+Madrid  N 4  X 145  Y 173    Granada  N 1  X 475  Y 173    peso  434
+Madrid  N 4  X 145  Y 173    Albacete  N 2  X 392  Y 31    peso  251
+Madrid  N 4  X 145  Y 173    Alicante  N 3  X 228  Y 31    peso  422
+Valencia  N 5  X 228  Y 315    Granada  N 1  X 475  Y 173    peso  519
+Valencia  N 5  X 228  Y 315    Albacete  N 2  X 392  Y 31    peso  191
+Valencia  N 5  X 228  Y 315    Alicante  N 3  X 228  Y 31    peso  166
+Valencia  N 5  X 228  Y 315    Madrid  N 4  X 145  Y 173    peso  352
+Barcelona  N 6  X 392  Y 315    Granada  N 1  X 475  Y 173    peso  858
+Barcelona  N 6  X 392  Y 315    Albacete  N 2  X 392  Y 31    peso  540
+Barcelona  N 6  X 392  Y 315    Alicante  N 3  X 228  Y 31    peso  515
+Barcelona  N 6  X 392  Y 315    Madrid  N 4  X 145  Y 173    peso  621
+Barcelona  N 6  X 392  Y 315    Valencia  N 5  X 228  Y 315    peso  349
+MatrizDePesos
+-1  -1  -1  -1  -1  -1  
+363  -1  -1  -1  -1  -1  
+353  171  -1  -1  -1  -1  
+434  251  422  -1  -1  -1  
+519  191  166  352  -1  -1  
+858  540  515  621  349  -1  

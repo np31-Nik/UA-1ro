@@ -1,0 +1,48 @@
+nombreGrafo    6.2
+Dirigido
+Ponderado
+numVertices    7
+numParaNumerarLosVertices    8
+Vertice1  N 1  X 0  Y 0
+Vertice2  N 2  X 0  Y 0
+Vertice3  N 3  X 0  Y 0
+Vertice4  N 4  X 0  Y 0
+Vertice5  N 5  X 0  Y 0
+Vertice6  N 6  X 0  Y 0
+Vertice7  N 7  X 0  Y 0
+verticesConNombre    false
+verticesAleatorios    false
+vertsConCoordenadas    false
+numArcos    24
+VerticeAnonimo  N 1  X 0  Y 0    VerticeAnonimo  N 2  X 0  Y 0    peso  2
+VerticeAnonimo  N 1  X 0  Y 0    VerticeAnonimo  N 3  X 0  Y 0    peso  1
+VerticeAnonimo  N 1  X 0  Y 0    VerticeAnonimo  N 4  X 0  Y 0    peso  9
+VerticeAnonimo  N 2  X 0  Y 0    VerticeAnonimo  N 1  X 0  Y 0    peso  9
+VerticeAnonimo  N 2  X 0  Y 0    VerticeAnonimo  N 3  X 0  Y 0    peso  8
+VerticeAnonimo  N 2  X 0  Y 0    VerticeAnonimo  N 5  X 0  Y 0    peso  4
+VerticeAnonimo  N 2  X 0  Y 0    VerticeAnonimo  N 6  X 0  Y 0    peso  2
+VerticeAnonimo  N 3  X 0  Y 0    VerticeAnonimo  N 1  X 0  Y 0    peso  1
+VerticeAnonimo  N 3  X 0  Y 0    VerticeAnonimo  N 2  X 0  Y 0    peso  1
+VerticeAnonimo  N 3  X 0  Y 0    VerticeAnonimo  N 4  X 0  Y 0    peso  1
+VerticeAnonimo  N 3  X 0  Y 0    VerticeAnonimo  N 6  X 0  Y 0    peso  1
+VerticeAnonimo  N 4  X 0  Y 0    VerticeAnonimo  N 1  X 0  Y 0    peso  3
+VerticeAnonimo  N 4  X 0  Y 0    VerticeAnonimo  N 3  X 0  Y 0    peso  1
+VerticeAnonimo  N 4  X 0  Y 0    VerticeAnonimo  N 6  X 0  Y 0    peso  1
+VerticeAnonimo  N 4  X 0  Y 0    VerticeAnonimo  N 7  X 0  Y 0    peso  1
+VerticeAnonimo  N 5  X 0  Y 0    VerticeAnonimo  N 2  X 0  Y 0    peso  1
+VerticeAnonimo  N 5  X 0  Y 0    VerticeAnonimo  N 6  X 0  Y 0    peso  1
+VerticeAnonimo  N 6  X 0  Y 0    VerticeAnonimo  N 2  X 0  Y 0    peso  3
+VerticeAnonimo  N 6  X 0  Y 0    VerticeAnonimo  N 3  X 0  Y 0    peso  1
+VerticeAnonimo  N 6  X 0  Y 0    VerticeAnonimo  N 4  X 0  Y 0    peso  5
+VerticeAnonimo  N 6  X 0  Y 0    VerticeAnonimo  N 5  X 0  Y 0    peso  1
+VerticeAnonimo  N 6  X 0  Y 0    VerticeAnonimo  N 7  X 0  Y 0    peso  1
+VerticeAnonimo  N 7  X 0  Y 0    VerticeAnonimo  N 4  X 0  Y 0    peso  4
+VerticeAnonimo  N 7  X 0  Y 0    VerticeAnonimo  N 6  X 0  Y 0    peso  3
+MatrizDePesos
+0  2  1  9  0  0  0  
+9  0  8  0  4  2  0  
+1  1  0  1  0  1  0  
+3  0  1  0  0  1  1  
+0  1  0  0  0  1  0  
+0  3  1  5  1  0  1  
+0  0  0  4  0  3  0  

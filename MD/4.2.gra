@@ -1,0 +1,37 @@
+nombreGrafo    4.1
+NoDirigido
+NoPonderado
+numVertices    7
+numParaNumerarLosVertices    8
+a  N 1  X 168  Y 101
+b  N 2  X 291  Y 110
+e  N 3  X 185  Y 202
+c  N 4  X 257  Y 219
+d  N 5  X 330  Y 208
+f  N 6  X 188  Y 289
+g  N 7  X 320  Y 326
+verticesConNombre    false
+verticesAleatorios    false
+vertsConCoordenadas    false
+numAristas    13
+a  N 1  X 168  Y 101    b  N 2  X 291  Y 110    peso  MENOSUNO
+b  N 2  X 291  Y 110    d  N 5  X 330  Y 208    peso  MENOSUNO
+d  N 5  X 330  Y 208    g  N 7  X 320  Y 326    peso  MENOSUNO
+g  N 7  X 320  Y 326    f  N 6  X 188  Y 289    peso  MENOSUNO
+f  N 6  X 188  Y 289    e  N 3  X 185  Y 202    peso  MENOSUNO
+e  N 3  X 185  Y 202    a  N 1  X 168  Y 101    peso  MENOSUNO
+e  N 3  X 185  Y 202    a  N 1  X 168  Y 101    peso  MENOSUNO
+e  N 3  X 185  Y 202    c  N 4  X 257  Y 219    peso  MENOSUNO
+d  N 5  X 330  Y 208    a  N 1  X 168  Y 101    peso  MENOSUNO
+a  N 1  X 168  Y 101    d  N 5  X 330  Y 208    peso  MENOSUNO
+d  N 5  X 330  Y 208    f  N 6  X 188  Y 289    peso  MENOSUNO
+f  N 6  X 188  Y 289    c  N 4  X 257  Y 219    peso  MENOSUNO
+c  N 4  X 257  Y 219    a  N 1  X 168  Y 101    peso  MENOSUNO
+MatrizDeAdyacencia
+0  1  2  1  2  0  0  
+1  0  0  0  1  0  0  
+2  0  0  1  0  1  0  
+1  0  1  0  0  1  0  
+2  1  0  0  0  1  1  
+0  0  1  1  1  0  1  
+0  0  0  0  1  1  0  
